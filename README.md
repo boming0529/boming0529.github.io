@@ -12,6 +12,5 @@ Welcome to my GitHub! I'm a passionate software engineer with a focus on buildin
 
 - AI & Data: Machine Learning (K-means, SVM), Deep Learning (CNN, SimCLR), AI Agent (RAG, Multi-Agent)
 
+[https://github-readme-stats.vercel.app/api/top-langs?username=x5427876&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=boming0529&show_icons=true&locale=en&layout=compact)
 
-
-https://github-readme-stats.vercel.app/api/top-langs?username=boming0529&show_icons=true&locale=en&layout=compact
